@@ -1,4 +1,4 @@
-# LUNA Skin - Hệ Thống Chẩn Đoán Bệnh Da Liễu AI
+# SmartskinAI - Hệ Thống Chẩn Đoán Bệnh Da Liễu AI
 
 <div align="center">
 
