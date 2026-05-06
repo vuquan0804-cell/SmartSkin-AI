@@ -216,10 +216,10 @@ Hệ thống cung cấp Swagger giúp tích hợp dễ dàng:
 
 | Tiêu chí | Thông tin chi tiết |
 | :--- | :--- |
-| **Họ và tên** | [Điền tên của bạn] |
-| **Trường** | [Điền tên trường Đại học] |
-| **Khoa / Viện** | [Điền tên Khoa hoặc Chuyên ngành] |
-| **Email** | [Điền email liên hệ] |
+| **Họ và tên** | [Vũ Đình Quân] |
+| **Trường** | [Trường đại học Đại Nam] |
+| **Khoa / Viện** | [Khoa Công nghệ thông tin] |
+| **Email** | [vuquan0804@gmail.com] |
 
 ---
 🌟 *Lưu ý: Hệ thống này phục vụ mục đích nghiên cứu học thuật. Tuyệt đối không thay thế hoàn toàn chẩn đoán y khoa do Bác sĩ thực hiện.*
